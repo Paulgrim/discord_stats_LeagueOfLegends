@@ -1,0 +1,13 @@
+pip~=22.0.4
+attrs~=21.4.0
+wheel~=0.34.2
+idna~=3.3
+multidict~=6.0.2
+yarl~=1.7.2
+aiohttp~=3.7.4.post0
+chardet~=4.0.0
+setuptools~=47.1.1
+tabulate~=0.8.9
+requests~=2.27.1
+python-dotenv~=0.19.2
+discord.py
